@@ -1,2 +1,5 @@
 This is my first GitHub!
 by Yuka
+
+This is my second GitHub!
+by Yuka Okada
