@@ -1,5 +1,1 @@
-This is my first GitHub!
-by Yuka
-
-This is my second GitHub!
-by Yuka Okada
+This is my third GitHub!
